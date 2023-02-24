@@ -1,4 +1,4 @@
- Tyler Toffoli	
+ Tyler Toffoli	-- OVER   HIT
 o2.5
 -146
 o2.5
@@ -17,7 +17,7 @@ u2.5
 +108
 u2.5
 +115
- Andrew Mangiapane	
+ Andrew Mangiapane	 -- OVER   HIT
 o2.5
 +118
 o2.5
@@ -36,7 +36,7 @@ u2.5
 -151
 u2.5
 -145
- Blake Coleman	
+ Blake Coleman	-- UNDER  HIT
 o2.5
 +128
 o2.5
@@ -51,7 +51,7 @@ u2.5
 -165
 u2.5
 -160
- Elias Lindholm	
+ Elias Lindholm	 --- UNDER  MISS
 o2.5
 +154
 o2.5
@@ -70,7 +70,7 @@ u1.5
 +118
 u2.5
 -185
- Mikael Backlund	
+ Mikael Backlund	 -- OVER  HIT
 o2.5
 -156
 o2.5
@@ -89,7 +89,7 @@ u2.5
 +102
 u2.5
 +120
- Nazem Kadri	
+ Nazem Kadri	 -- OVER  MISS
 o3.5
 +122
 o3.5
@@ -108,7 +108,7 @@ u2.5
 +114
 u3.5
 -150
- Noah Hanifin	
+ Noah Hanifin	-- UNDER  HIT
 o2.5
 +136
 o2.5

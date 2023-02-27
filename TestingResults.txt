@@ -1,0 +1,128 @@
+ Tyler Toffoli	-- OVER   HIT
+o2.5
+-146
+o2.5
+-145
+o2.5
+-148
+o2.5
+-145
+ACT'L
+3
+u2.5
++112
+u2.5
++110
+u2.5
++108
+u2.5
++115
+ Andrew Mangiapane	 -- OVER   HIT
+o2.5
++118
+o2.5
++115
+o2.5
++110
+o2.5
++115
+
+Unlock Projection!
+u2.5
+-154
+u2.5
+-155
+u2.5
+-151
+u2.5
+-145
+ Blake Coleman	-- UNDER  HIT
+o2.5
++128
+o2.5
++125
+o2.5
++130
+
+Unlock Projection!
+u2.5
+-168
+u2.5
+-165
+u2.5
+-160
+ Elias Lindholm	 --- UNDER  MISS
+o2.5
++154
+o2.5
++145
+o1.5
+-163
+o2.5
++150
+
+Unlock Projection!
+u2.5
+-205
+u2.5
+-200
+u1.5
++118
+u2.5
+-185
+ Mikael Backlund	 -- OVER  HIT
+o2.5
+-156
+o2.5
+-155
+o2.5
+-139
+o2.5
+-150
+
+Unlock Projection!
+u2.5
++120
+u2.5
++115
+u2.5
++102
+u2.5
++120
+ Nazem Kadri	 -- OVER  MISS
+o3.5
++122
+o3.5
++120
+o2.5
+-157
+o3.5
++120
+
+Unlock Projection!
+u3.5
+-160
+u3.5
+-155
+u2.5
++114
+u3.5
+-150
+ Noah Hanifin	-- UNDER  HIT
+o2.5
++136
+o2.5
++130
+o1.5
+-160
+o2.5
++135
+
+Unlock Projection!
+u2.5
+-178
+u2.5
+-175
+u1.5
++116
+u2.5
